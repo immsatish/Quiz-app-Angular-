@@ -10,6 +10,7 @@
 
 - Light weight in nature
 - Fastest Results
+- awsome product
 
 # New Features!
 
