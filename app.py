@@ -53,7 +53,7 @@ def index():
         while True:
             result = run(referrer)
             print("CODE HAS STARTED")
-            print("======================================")
+            print("*******************************************")
             if result.status_code == 200:
                 print(c,"GB added successfully !")
                 c = c + 1
